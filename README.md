@@ -1,0 +1,2 @@
+# .pk
+about ethical hacking
